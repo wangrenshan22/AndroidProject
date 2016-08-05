@@ -1,3 +1,36 @@
 <resources>
-    <string name="app_name">AndroidProject</string>
+    <string name="app_name">HaiNanJob</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="titlebar_title">人才在线</string>
+    <string name="contentDescription">图片信息描述</string>
+
+    <string name="person_resume">个人简历</string>\
+    <string name="refresh">刷新</string>
+    <string name="delete">删除</string>
+    <string name="edit">编辑</string>
+    <string name="secret">保密</string>
+    <string name="setup">设置</string>
+
+    <string name="create_resume">创建简历</string>
+    <string name="secrest_company">屏蔽公司</string>
+    <string name="btn_select">搜索</string>
+
+    <string name="rb_zhiweituijian">职位推荐</string>
+    <string name="rb_toudifankui">投递反馈</string>
+    <string name="rb_zhiweiyaoqing">职位邀请</string>
+    <string name="rb_refresh_resume">刷新简历</string>
+    <string name="rb_hr_search">HR搜索</string>
+
+    <string name="list_item_jobaddress">工作地点</string>
+    <string name="list_item_jobtype">职位类别</string>
+   <string name="list_item_tradetype">行业类别</string>
+
+    <string name="popup_item_qiuzhibaodian">求职宝典</string>
+    <string name="popup_item_xinchouchaxun">薪酬查询</string>
+    <string name="popup_item_yijianfankui">意见反馈</string>
+    <string name="popup_item_yingyongtuijian">应用推荐</string>
+    <string name="popup_item_setup">设置</string>
+    <string name="title_activity_action_msg">ActionMsgActivity</string>
+
 </resources>
